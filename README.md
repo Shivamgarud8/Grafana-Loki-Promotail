@@ -290,5 +290,17 @@ sudo journalctl -u grafana-server -f
 
 ---
 
+---
+👩‍🏫 **Guided and Supported by [Trupti Mane Ma’am](https://github.com/iamtruptimane)**  
+---
+
+👨‍💻 **Developed By:**  
+**Shivam Garud**  
+🧠 *DevOps & Cloud Engineer*  
+💼 *DevOps Engineer | CI/CD | Docker | Kubernetes | Terraform | Ansible | AWS | Linux | Cloud Automation | Infrastructure as Code!*  
+🌐 [GitHub Profile](https://github.com/Shivamgarud8)
+🌐 [Medium blog](https://medium.com/@shivam.garud2011)
+🌐 [linkedin](www.linkedin.com/in/shivam-garud)
+🌐 [portfolio](https://shivam-garud.vercel.app/)
 
 
